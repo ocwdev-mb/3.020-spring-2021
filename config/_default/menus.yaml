@@ -1,0 +1,44 @@
+leftnav:
+- identifier: 9c277a00-1f00-4039-9537-81d8cf2ea78b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0cf92f71-39da-412d-b0d4-49a999b084a9
+  name: Calendar
+  pageRef: /pages/schedule
+  weight: 20
+- identifier: 6f1dfa42-bfa7-425a-b4e4-c5adec5e525d
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: ce30c4c2-5161-4110-b08d-7ce1d29e972a
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 035cbabe-684f-4ae4-b662-1b832d177d01
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes-and-latex
+  weight: 50
+- identifier: 3092b2b1-69e9-4d9b-aab1-a74820156bac
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 60
+- identifier: dbfdb685-4741-48dc-8191-45737a0f2658
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: ad3d4fed-58b7-4c9a-a135-c2defc01152e
+  name: Problem Sets
+  pageRef: /lists/problem-sets
+  parent: dbfdb685-4741-48dc-8191-45737a0f2658
+  weight: 10
+- identifier: ff25030f-356d-4d8a-a1a9-a3f3fbdb7b3e
+  name: Recitation Problems
+  pageRef: /lists/recitation-problems
+  parent: dbfdb685-4741-48dc-8191-45737a0f2658
+  weight: 20
+- identifier: 53cf7636-95de-41f7-a878-a508b10b34d5
+  name: CI-M Assignments
+  pageRef: /pages/communications-assignments
+  parent: dbfdb685-4741-48dc-8191-45737a0f2658
+  weight: 30
