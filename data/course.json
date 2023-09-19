@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "6a140abb-a6a8-4492-a6d2-0f0f3f21835d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "21f7face-593b-40e3-b130-2e7ccc8c9b0a",
+    "website": "3020-thermodynamics-of-materials"
+  },
+  "course_title": "Thermodynamics of Materials",
+  "course_description": "This course introduces the competition between energetics and disorder that underpins materials thermodynamics. Classical thermodynamic concepts are presented in the context of phase equilibria, including phase transformations, phase diagrams, and chemical reactions.",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "3.012",
+  "primary_course_number": "3.020",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "3020-thermodynamics-of-materials"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Instructor Insights",
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Problem Sets",
+    "Readings",
+    "Tutorial Videos"
+  ],
+  "site_uid": "7a852892-d940-4d19-87a4-6d8994213bf9",
+  "site_short_id": "3.020-spring-2021"
+}
